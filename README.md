@@ -7,6 +7,9 @@ Step 1) Clone Repository:
 
 <code>
   git clone https://github.com/EmilMis/SovietAnthem.git
+</code>
+
+<code>
   cd SovietAnthem
 </code>
 
