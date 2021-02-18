@@ -1,6 +1,6 @@
 # SovietAnthem
 Just a Joke program in C++
-<strong>INSTRUCTIONS<strong>
+<strong>\nINSTRUCTIONS<strong>
 
 <code>
   g++ .\soviet.cpp -lwinmm
